@@ -1,0 +1,4 @@
+asset_type,name,river,province_region,status,upstream,downstream
+Dam,Tarbela Dam,Indus,Khyber Pakhtunkhwa (KPK),Operational,Upper Indus,Indus downstream
+Barrage,Taunsa Barrage,Indus,Punjab,Operational,Indus upstream,Indus downstream
+Link Canal,Chashma-Jhelum Link,Indus/Jhelum,Punjab,Operational,Chashma Barrage,Jhelum system
